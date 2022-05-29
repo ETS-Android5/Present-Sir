@@ -52,5 +52,4 @@ Credentials of Faculty account for testing -
 - Password - Presentsir@123 (Case-sensitive)
 
 ### Application Link :
-[APK LINK HERE](https://github.com/RainaJain5/Present-Sir/blob/main/Present%20Sir.apk)
-### Appliation Video demo Link : 
+[APK LINK HERE](https://github.com/RainaJain5/Present-Sir/blob/main/Present%20Sir.apk) 
